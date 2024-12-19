@@ -9,8 +9,8 @@
 
 ### Links
 
-- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/psalmotee/Frontend-QR-Code))
-- Live Site URL: [Netify]([https://your-live-site-url.com](https://fronted-master-qr-code.netlify.app/))
+- Solution URL: [GitHub](https://github.com/psalmotee/Frontend-QR-Code)
+- Live Site URL: [Netify](https://fronted-master-qr-code.netlify.app/)
 
 ## My process
 
